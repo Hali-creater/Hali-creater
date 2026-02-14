@@ -1,16 +1,32 @@
-## Hi there 👋
+Founder of DevLabs.
+AI Systems Architect focused on building autonomous trading agents, lead generation engines, and revenue automation systems.
 
-<!--
-**Hali-creater/Hali-creater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I design modular, scalable AI infrastructures using Python and automation frameworks — turning complex workflows into intelligent, self-operating systems.
 
-Here are some ideas to get you started:
+Currently building:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+International AI Trader Predictor Agents
+
+Real Estate Lead Automation Systems
+
+Autonomous Marketing & Outreach AI
+
+Passionate about automation, market systems, and AI-driven business architecture.
+
+🌐 Socials:
+Instagram LinkedIn Reddit X email
+
+💻 Tech Stack:
+Python Windows Terminal TypeScript HTML5 C++ JavaScript Vercel Google Cloud Oracle React Django Context-API Code-Igniter Chart.js Ant-Design Angular Laravel FastAPI Bootstrap NodeJS Next JS NestJS OpenCV OpenGL React Query Strapi Apache Apache Airflow MySQL Realm SQLite Teradata Appwrite Firebase Quill Adobe Figma Canva NumPy Pandas PyTorch mlflow GitHub Actions Fastlane Forgejo Git GitLab GitHub Cisco Docker Home Assistant Notion Meta Raspberry Pi Twilio Uber nVIDIA Unity
+
+📊 GitHub Stats:
+
+
+
+
+
+
+🏆 GitHub Trophies
+
+
+✍️ Random Dev Quote
